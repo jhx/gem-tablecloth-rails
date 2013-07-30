@@ -8,16 +8,22 @@ Provides the `Tablecloth` JavaScript/CSS packaged for the Rails 3.1+ asset pipel
 
 Add these lines to your application's Gemfile:
 
-    # tablecloth table js/css packaged for the rails asset pipeline
-    gem 'tablecloth-rails', '~> 1.0'
+```rb
+# tablecloth table js/css packaged for the rails asset pipeline
+gem 'tablecloth-rails', '~> 1.0'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install tablecloth-rails
+```sh
+$ gem install tablecloth-rails
+```
 
 Gem version notes:
 
@@ -28,13 +34,17 @@ Gem version notes:
 
 Add these lines to `app/assets/javascripts/application.js`
 
-    // provides tablecloth table js/css from gem 'tablecloth-rails':
-    //= require tablecloth
+```js
+// provides tablecloth table js/css from gem 'tablecloth-rails':
+//= require tablecloth
+```
 
 Add these lines to `app/assets/stylesheets/application.css`
 
-    provides tablecloth table js/css from gem 'tablecloth-rails':
-    = require tablecloth
+```css
+provides tablecloth table js/css from gem 'tablecloth-rails':
+= require tablecloth
+```
 
 ## Contributing
 
