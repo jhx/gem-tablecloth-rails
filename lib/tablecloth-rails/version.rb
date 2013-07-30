@@ -7,6 +7,6 @@ module Tablecloth
     #   "2.0.0.pre"
     #   "2.0.0.beta"
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = "1.0.0"
+    VERSION = "1.0.1"
   end
 end
