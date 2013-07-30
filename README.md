@@ -6,7 +6,7 @@ Provides the `Tablecloth` JavaScript/CSS packaged for the Rails 3.1+ asset pipel
 
 ## Installation
 
-Add these lines to your application's Gemfile:
+Add these lines to your application's `Gemfile`:
 
 ```rb
 # tablecloth table js/css packaged for the rails asset pipeline
