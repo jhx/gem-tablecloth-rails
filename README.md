@@ -1,6 +1,6 @@
 # tablecloth-rails [![Gem Version](https://badge.fury.io/rb/tablecloth-rails.png)](http://badge.fury.io/rb/tablecloth-rails)
 
-> Created by Doc Walker
+> Gemified by Doc Walker
 
 Provides the `Tablecloth` JavaScript/CSS packaged for the Rails 3.1+ asset pipeline.
 
