@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # tablecloth table js/css packaged for the rails asset pipeline
-gem 'tablecloth-rails', '~> 1.0'
+gem 'tablecloth-rails', '~> 1.0.100'
 ```
 
 And then execute:
@@ -32,8 +32,8 @@ $ gem install tablecloth-rails
 
 Gem version notes:
 
-  - x.y.z version will track the `Tablecloth` version;
-  - It may contain a suffix to differentiate versions of the gem based on the same `Tablecloth` version;
+- Version is in the format `X.Y.ZVV` where `X.Y.Z` is version of `Tablecloth` plugin and `VV` is version of gem (with leading zero);
+- Refer to Semantic Versioning 2.0.0 (http://semver.org);
 
 ## Usage
 

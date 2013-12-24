@@ -1,12 +1,13 @@
 module Tablecloth
   module Rails
-    # Use tablecloth version; append a pre-release version identifier if gem
-    # is updated without updating version of tablecloth.
-    # Examples:
-    #   "2.0.0.rc1"
-    #   "2.0.0.pre"
-    #   "2.0.0.beta"
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = "1.0.1"
+    # Use tablecloth version (major, minor, patch) and append a gem
+    # version identifier (denoted as VV below); use leading zero.
+    # Examples:
+    #   "X.Y.ZVV" is tablecloth vX.Y.Z + gem release VV
+    #   "1.0.100" is tablecloth v1.0.1 + gem release 0
+    #   "1.0.101" is tablecloth v1.0.1 + gem release 1
+    #   "1.0.110" is tablecloth v1.0.1 + gem release 10
+    VERSION = "1.0.100"
   end
 end
