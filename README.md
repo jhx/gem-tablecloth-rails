@@ -1,4 +1,6 @@
-# tablecloth-rails [![Gem Version](https://badge.fury.io/rb/tablecloth-rails.png)](http://badge.fury.io/rb/tablecloth-rails)
+# tablecloth-rails
+[![Gem Version](https://badge.fury.io/rb/tablecloth-rails.png)](http://badge.fury.io/rb/tablecloth-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-tablecloth-rails.png?branch=master)](https://travis-ci.org/jhx/gem-tablecloth-rails)
 
 > Gemified by Doc Walker
 
