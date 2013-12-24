@@ -42,8 +42,10 @@ Add these lines to `app/assets/javascripts/application.js`
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
+/*
 provides tablecloth table js/css from gem 'tablecloth-rails':
 = require tablecloth-rails
+*/
 ```
 
 ## Contributing
