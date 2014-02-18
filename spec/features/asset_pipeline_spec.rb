@@ -6,10 +6,10 @@ feature 'Asset pipeline' do
     # save_and_open_page  # for debugging (opens page in browser)
 
     expect(page).to have_text(<<-EOF
-  	Tablecloth
-  	written by Alen Grakalic, provided by Css Globe (cssglobe.com)
-  	please visit http://cssglobe.com/lab/tablecloth/
-    EOF
+      Tablecloth
+      written by Alen Grakalic, provided by Css Globe (cssglobe.com)
+      please visit http://cssglobe.com/lab/tablecloth/
+      EOF
     )
   end # scenario
 
@@ -18,9 +18,9 @@ feature 'Asset pipeline' do
     # save_and_open_page  # for debugging (opens page in browser)
 
     expect(page).to have_text(<<-EOF
-  	TableCloth
-  	by Alen Grakalic, brought to you by cssglobe.com
-    EOF
+      TableCloth
+      by Alen Grakalic, brought to you by cssglobe.com
+      EOF
     )
   end # scenario
 end # feature
