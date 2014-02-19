@@ -8,8 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = Tablecloth::Rails::VERSION
   spec.authors       = ['Doc Walker']
   spec.email         = ['doc.walker@jameshardie.com']
-  spec.description   = %q{Provides the `Tablecloth` JavaScript/CSS packaged for the Rails 3.1+ asset pipeline.}
-  spec.summary       = %q{Provides the `Tablecloth` JavaScript/CSS packaged for the Rails 3.1+ asset pipeline.}
+  spec.description   = 'Provides the `Tablecloth` JavaScript/CSS packaged ' \
+                       'for the Rails 3.1+ asset pipeline.'
+  spec.summary       = 'Provides the `Tablecloth` JavaScript/CSS packaged ' \
+                       'for the Rails 3.1+ asset pipeline.'
   spec.homepage      = 'https://github.com/jhx/gem-tablecloth-rails'
   spec.license       = 'MIT'
 
