@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # tablecloth table js/css packaged for the rails asset pipeline
-gem 'tablecloth-rails', '~> 1.0.100'
+gem 'tablecloth-rails', '~> 1.0.101'
 ```
 
 And then execute:
