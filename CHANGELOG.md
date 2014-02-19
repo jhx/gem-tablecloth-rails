@@ -4,6 +4,9 @@ CHANGELOG
 TBD
 --------------------
 
+- `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#17][]
+- `IMPROVE` - update `semantic` gem version | [#15][]
+- `NEW` - add [CHANGELOG](CHANGELOG.md) | [#13][]
 - `IMPROVE` - update `railties` gem dependency | [#11][]
 
 
@@ -42,3 +45,6 @@ Legend
 [#8]: https://github.com/jhx/gem-tablecloth-rails/issues/8
 [#9]: https://github.com/jhx/gem-tablecloth-rails/issues/9
 [#11]: https://github.com/jhx/gem-tablecloth-rails/issues/11
+[#13]: https://github.com/jhx/gem-tablecloth-rails/issues/13
+[#15]: https://github.com/jhx/gem-tablecloth-rails/issues/15
+[#17]: https://github.com/jhx/gem-tablecloth-rails/issues/17
