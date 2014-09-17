@@ -9,6 +9,10 @@ module Tablecloth
     #   "1.0.100" is tablecloth v1.0.1 + gem release 0
     #   "1.0.101" is tablecloth v1.0.1 + gem release 1
     #   "1.0.110" is tablecloth v1.0.1 + gem release 10
-    VERSION = '1.0.101'
+    MAJOR = 1
+    MINOR = 0
+    PATCH = 101
+    BUILD = nil
+    VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
 end
