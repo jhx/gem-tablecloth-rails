@@ -1,5 +1,16 @@
-CHANGELOG
-=========
+1.0.102 / 2014-11-16
+--------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-tablecloth-rails/commit/85b1bda)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-tablecloth-rails/commit/7952d29)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-tablecloth-rails/commit/0093616)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-tablecloth-rails/commit/2d81f41)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-tablecloth-rails/commit/a37ba49)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-tablecloth-rails/commit/fc3b30e)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-tablecloth-rails/commit/3c79909)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-tablecloth-rails/commit/625f357)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-tablecloth-rails/commit/d3d26d3)
+
 
 1.0.101 / 2014-02-18
 --------------------

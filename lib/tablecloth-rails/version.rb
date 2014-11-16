@@ -11,7 +11,7 @@ module Tablecloth
     #   "1.0.110" is tablecloth v1.0.1 + gem release 10
     MAJOR = 1
     MINOR = 0
-    PATCH = 101
+    PATCH = 102
     BUILD = nil
     VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
