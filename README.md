@@ -1,9 +1,15 @@
 # tablecloth-rails
-[![Gem Version](https://badge.fury.io/rb/tablecloth-rails.png)](http://badge.fury.io/rb/tablecloth-rails)
-[![Build Status](https://travis-ci.org/jhx/gem-tablecloth-rails.png?branch=master)](https://travis-ci.org/jhx/gem-tablecloth-rails)
-[![Dependency Status](https://gemnasium.com/jhx/gem-tablecloth-rails.png)](https://gemnasium.com/jhx/gem-tablecloth-rails)
-[![Code Climate](https://codeclimate.com/github/jhx/gem-tablecloth-rails.png)](https://codeclimate.com/github/jhx/gem-tablecloth-rails)
-[![Coverage Status](https://coveralls.io/repos/jhx/gem-tablecloth-rails/badge.png)](https://coveralls.io/r/jhx/gem-tablecloth-rails)
+[![Gem](http://img.shields.io/gem/v/tablecloth-rails.svg?style=flat)][gem]
+[![Travis](https://img.shields.io/travis/jhx/gem-tablecloth-rails.svg?style=flat)][travis]
+[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-tablecloth-rails.svg?style=flat)][gemnasium]
+[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-tablecloth-rails.svg?style=flat)][code climate]
+[![Coveralls](http://img.shields.io/coveralls/jhx/gem-tablecloth-rails.svg?style=flat)][coveralls]
+
+[gem]:          https://rubygems.org/gems/tablecloth-rails
+[travis]:       https://travis-ci.org/jhx/gem-tablecloth-rails
+[gemnasium]:    https://gemnasium.com/jhx/gem-tablecloth-rails
+[code climate]: https://codeclimate.com/github/jhx/gem-tablecloth-rails
+[coveralls]:    https://coveralls.io/r/jhx/gem-tablecloth-rails
 
 > Gemified by Doc Walker
 
